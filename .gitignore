@@ -1,0 +1,21 @@
+# Data
+data/raw/
+data/interim/
+data/processed/
+*.sqlite
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Excel temp
+~$*.xlsx
