@@ -57,6 +57,18 @@ python python/rfm_cohorts.py --db data/olist.sqlite --out data/processed/kpis
 - `kpi_cohort_retention.csv`
 
 ## Author
-Add your name + contacts here.
+ijaz Ahmad.
 ## Dashboard Preview
 ![Dashboard](assets/images/dashboard_full.png)
+## Dashboard Preview
+
+### KPI Summary
+![KPI Cards](assets/images/kpi_cards.png)
+
+
+
+![Delivery SLA](assets/images/delivery_sla_by_state.png)
+
+
+![Payment Mix](assets/images/payment_mix.png)
+
